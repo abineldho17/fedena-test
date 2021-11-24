@@ -1,0 +1,7 @@
+{
+  "name": "fedenaapi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
